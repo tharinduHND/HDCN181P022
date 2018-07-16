@@ -1,7 +1,7 @@
 total = 0.0
 # Loop continuously using while loop 
 while True:	
-    # Get the input using input
+    # Get the input using input.
     number = input("Enter number here :")
     # If the user press enter without put value 
     if number == '':
